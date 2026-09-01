@@ -7,3 +7,5 @@
 <p align="center">
   <img src="./sukuna_gradient_typewriter.gif" width="800">
 </p>
+
+straw & readme still in wip ok...
