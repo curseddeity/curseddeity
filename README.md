@@ -8,4 +8,5 @@
   <img src="./sukuna_gradient_typewriter.gif" width="800">
 </p>
 
-straw & readme still in wip ok...
+<p align="center">
+𝘴𝘵𝘳𝘢𝘸 & 𝘳𝘦𝘢𝘥𝘮𝘦 𝘴𝘵𝘪𝘭𝘭 𝘪𝘯 𝘸𝘪𝘱 𝘰𝘬...
