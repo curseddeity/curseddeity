@@ -19,4 +19,7 @@
 <p align="center">
 𝘴𝘵𝘳𝘢𝘸 & 𝘳𝘦𝘢𝘥𝘮𝘦 𝘴𝘵𝘪𝘭𝘭 𝘪𝘯 𝘸𝘪𝘱 𝘰𝘬...
 
+<img width="720" height="404" alt="1000025036" src="https://github.com/user-attachments/assets/185e00a3-dc56-43bf-bf7b-d63f0487306c" />
+
+
 <img width="727" height="143" alt="1000025039" src="https://github.com/user-attachments/assets/37834e84-727a-44da-9759-c942bbfbf8d4" />
