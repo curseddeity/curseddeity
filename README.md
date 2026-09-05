@@ -20,8 +20,4 @@
 𝘴𝘵𝘳𝘢𝘸 & 𝘳𝘦𝘢𝘥𝘮𝘦 𝘴𝘵𝘪𝘭𝘭 𝘪𝘯 𝘸𝘪𝘱 𝘰𝘬...
 
 
-<img width="500" height="281" alt="1000025033" src="https://github.com/user-attachments/assets/3c7c0353-cb32-49fc-bc49-42fc2a316630" />
-
-
-
 <img width="727" height="143" alt="1000025039" src="https://github.com/user-attachments/assets/37834e84-727a-44da-9759-c942bbfbf8d4" />
